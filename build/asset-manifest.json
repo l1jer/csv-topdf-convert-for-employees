@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cdaba68d.css",
+    "main.js": "/static/js/main.f19e81ea.js",
+    "static/media/sky-background.jpg": "/static/media/sky-background.ccd2b7c393585ed2b3ca.jpg",
+    "index.html": "/index.html",
+    "main.cdaba68d.css.map": "/static/css/main.cdaba68d.css.map",
+    "main.f19e81ea.js.map": "/static/js/main.f19e81ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdaba68d.css",
+    "static/js/main.f19e81ea.js"
+  ]
+}

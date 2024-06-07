@@ -1,0 +1,27 @@
+﻿ship-to,business name goes here,address line 1,address line 2,address line 3,,,
+ATTN:,name goes here,,,,,,
+Phone:,999 999 999,,,,,,
+Date,16-Jan-23,,,,,,
+Invoice #,12345,,,,,,
+Incoterms,EXW,,,,,,
+productList,sku goes here,product description goes here,qty goes here,Dollar value per unit ,hs code goes here,country of origin goes here,total for product goes here
+productList,sku goes here,product description goes here,qty goes here,Dollar value per unit ,hs code goes here,country of origin goes here,total for product goes here
+productList,sku goes here,product description goes here,qty goes here,Dollar value per unit ,hs code goes here,country of origin goes here,total for product goes here
+productList,sku goes here,product description goes here,qty goes here,Dollar value per unit ,hs code goes here,country of origin goes here,total for product goes here
+productList,sku goes here,product description goes here,qty goes here,Dollar value per unit ,hs code goes here,country of origin goes here,total for product goes here
+productList,sku goes here,product description goes here,qty goes here,Dollar value per unit ,hs code goes here,country of origin goes here,total for product goes here
+productList,sku goes here,product description goes here,qty goes here,Dollar value per unit ,hs code goes here,country of origin goes here,total for product goes here
+productList,sku goes here,product description goes here,qty goes here,Dollar value per unit ,hs code goes here,country of origin goes here,total for product goes here
+productList,sku goes here,product description goes here,qty goes here,Dollar value per unit ,hs code goes here,country of origin goes here,total for product goes here
+productList,sku goes here,product description goes here,qty goes here,Dollar value per unit ,hs code goes here,country of origin goes here,total for product goes here
+productList,sku goes here,product description goes here,qty goes here,Dollar value per unit ,hs code goes here,country of origin goes here,total for product goes here
+productList,sku goes here,product description goes here,qty goes here,Dollar value per unit ,hs code goes here,country of origin goes here,total for product goes here
+productList,sku goes here,product description goes here,qty goes here,Dollar value per unit ,hs code goes here,country of origin goes here,total for product goes here
+productList,sku goes here,product description goes here,qty goes here,Dollar value per unit ,hs code goes here,country of origin goes here,total for product goes here
+product-total,total product value goes here,,,,,,
+packing-details,total number of carton goes here,,,,,,
+pallet,1,pallet length goes here,pallet width goes here,pallet height goes here,pallet weight goes here,,
+pallet,2,pallet length goes here,pallet width goes here,pallet height goes here,pallet weight goes here,,
+pallet,3,pallet length goes here,pallet width goes here,pallet height goes here,pallet weight goes here,,
+pallet,4,pallet length goes here,pallet width goes here,pallet height goes here,pallet weight goes here,,
+total-pallet,total pallet weight goes here,,,,,,

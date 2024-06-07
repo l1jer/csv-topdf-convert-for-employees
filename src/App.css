@@ -1,0 +1,289 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span,
+button,
+input,
+select,
+textarea {
+  font-family: "Tahoma", sans-serif;
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+select {
+  height: 3rem;
+  width: 100%;
+  border-radius: 10px;
+  text-align: center;
+  margin-bottom: .5rem;
+}
+
+.loginContainer {
+  height: 100vh;
+  background-image: url(./images/sky-background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.loginContainer {
+  box-sizing: border-box;
+}
+
+#datTable {
+  max-width: 1200px;
+  margin: auto;
+}
+
+#uploadForm {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+  font-weight: bold;
+  font-family: "Raleway", sans-serif;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.uploadInner {
+  padding: 35px 75px;
+  box-sizing: border-box;
+  background: #ffffff47;
+  border-radius: 25px;
+}
+
+.uploadInner img {
+  display: block;
+  margin: 0 auto 10px auto;
+  width: 80px;
+}
+
+#instructionContainer {
+  margin-top: 20px;
+}
+
+.uploadInner p {
+  line-height: 1em;
+}
+
+button {
+  border: none;
+  line-height: 2.5;
+  margin: auto;
+  cursor: pointer;
+  font-family: "Verdana", sans-serif;
+  padding: 4px 15px;
+  border-radius: 10px;
+  width: 100%;
+  background: orange;
+}
+
+button:hover {
+  background: #f18257;
+}
+
+.noData {
+  text-align: center;
+  font-weight: bold;
+}
+
+#header,
+#footer {
+  background: black;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  padding: 18px 35px;
+}
+
+#header {
+  border-bottom: solid 4px #e87025;
+}
+
+#footer {
+  border-top: solid 4px #e87025;
+}
+
+#header img {
+  max-height: 80%;
+  width: auto;
+}
+
+.companyInfoContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.companyInfoLeft,
+.companyInfoRight {
+  width: 35%;
+}
+
+.companyInfoRight p {
+  padding: 0 10px;
+}
+
+.left,
+.right {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  max-width: 70%;
+  margin: 20px auto;
+  font-weight: bold;
+}
+
+#links .full {
+  width: 100%;
+}
+
+#links span {
+  color: #e87025;
+}
+
+#links p {
+  margin: 5px;
+  text-align: center;
+}
+
+p {
+  line-height: 1.5em;
+}
+
+h2 {
+  margin: 0;
+}
+
+#leftCol {
+  margin-top: 16px;
+}
+
+.gap {
+  padding-top: 20px;
+}
+
+#leftCol,
+#rightCol {
+  font-size: 1.15em;
+}
+
+#leftCol tr,
+#rightCol tr {
+  vertical-align: top;
+}
+
+#leftCol td,
+#rightCol td {
+  padding-left: 8px;
+}
+
+#producTable {
+  width: 100%;
+  margin-top: 20px;
+}
+
+#producTable th,
+#palletTable th {
+  text-align: left;
+  background: black;
+  color: white;
+  padding: 5px 8px;
+  border-bottom: solid 4px #e87025;
+}
+
+#producTable td,
+#palletTable td {
+  vertical-align: top;
+  padding: 8px;
+}
+
+#producTable tr:nth-child(odd),
+#palletTable tr:nth-child(odd) {
+  background: #ededed;
+}
+
+#palletTable {
+  margin-right: 20px;
+  text-align: left;
+  display: inline-block;
+}
+
+#packingContainer {
+  display: inline-block;
+  vertical-align: top;
+}
+
+#prouctTotal {
+  text-align: right;
+}
+
+#prouctTotal p {
+  margin: 0;
+}
+
+#palletTotal p,
+#prouctTotal p {
+  font-size: 1.15em;
+  background: black;
+  color: white;
+  padding: 6px 12px;
+  border-bottom: 4px #e87025 solid;
+}
+
+#footerLogos {
+  text-align: center;
+  margin-top: 25px;
+}
+
+#footerLogos img {
+  height: 75px;
+  width: auto;
+}
+
+#disclaimer {
+  text-align: center;
+  border-bottom: solid 1px #bdbdbd;
+  max-width: 500px;
+  margin: 20px auto;
+}
+
+#palletContainer {
+  margin-top: 60px;
+}
+
+.errorContainer {
+  text-align: center;
+  font-weight: bold;
+  background-color: #e87025;
+  padding: 20px;
+  margin: 50px 0;
+}
+
+.errorContainer a,
+.errorContainer h1 {
+  color: white;
+}
+
+.errorContainer h1 {
+  font-size: 5em;
+  margin: 0;
+}
+
+#currencyList {
+  left: 500px;
+}
